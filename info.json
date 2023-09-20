@@ -1,10 +1,7 @@
 {
-"indri01": {
-   "password": "$2y$12$FJIaonz/P9dza5MR021YsOzxEuFDti/FclfgecnWcY4kAMu1.cg2S",
-   "expiry": "30-01-2023 12:00 PM"
- },
-   "indri02": {
-   "password": "$2y$12$pomGrQEmLuC/RMHsvYIRKOOXONLCYPgGOUAXZF7op1cNcBxn5uPgS",
-   "expiry": "01-09-2023 12:00 PM"
+"saya": {
+   "password": "$2y$12$gIL9AGPraSyIZwcqQ34TcOuwx9GJ0vAVoMuzfQ1Das6X9HQEUabiW",
+   "devices": ["REDMINOTE9PRO5C1031A7B688B47A"],
+   "expiry": "01-09-2026 12:59 PM"
  },
 }
