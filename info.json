@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A"],
    "expiry": "01-09-2026 12:59 PM"
  },
+   "ANDRI": {
+   "password": "$2y$12$dJt0HGRyiCDroFUJh/HEpuay1jDfQFf9180fkW2qjeLa.OWF1a3ye",
+   "devices": ["SM-J600GA273AA033660AAE1"],
+   "expiry": "19-10-2023 12:59 AM"
+ },
 }
