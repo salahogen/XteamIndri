@@ -39,4 +39,9 @@
    "devices": ["ASUSX00RDJ9AXGF03H679CEG"],
    "expiry": "21-10-2023 12:59 AM"
  },
+   "ALFINO123": {
+   "password": "$2y$12$djdDY14f4bCVU.713Dfdbu4Tu4ACQozqAjlFflbchJ1C8wX5Q3Oqq",
+   "devices": ["SM-G975F53A9893B72C6011F"],
+   "expiry": "11-10-2023 12:59 AM"
+ },
 }
