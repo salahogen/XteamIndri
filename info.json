@@ -14,4 +14,9 @@
    "devices": ["SM-J701F954B4976EA8A1B77"],
    "expiry": "21-10-2023 12:59 AM"
  },
+   "AMONG": {
+   "password": "$2y$12$CYt2R.rtycxOnuyUgqpwleYguwlpb7jSjbZVSena6DfkMBxCtLh5C",
+   "devices": ["M2010J19CGE1BAE73371FC8AB1"],
+   "expiry": "21-10-2023 12:59 AM"
+ },
 }
