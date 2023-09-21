@@ -24,4 +24,9 @@
    "devices": ["SM-G610F330051DB29E9C383"],
    "expiry": "26-09-2023 12:59 AM"
  },
+   "APRIWOKWOK": {
+   "password": "$2y$12$3xqXiWQ9LspEx8ltTNPFRO1EhDQO0BmGmnxNVwETemlrFV1iI0II6",
+   "devices": ["M2010J19CG010571C965B26F45"],
+   "expiry": "31-10-2023 12:59 AM"
+ },
 }
