@@ -19,4 +19,9 @@
    "devices": ["M2010J19CGE1BAE73371FC8AB1"],
    "expiry": "21-10-2023 12:59 AM"
  },
+   "AAN12245": {
+   "password": "$2y$12$Bu72qa9vERR5SSHNDI3g1.5bjNAbLy3xksFKSI.kXwHK1GvOzoEoy",
+   "devices": ["SM-G610F330051DB29E9C383"],
+   "expiry": "26-09-2023 12:59 AM"
+ },
 }
