@@ -49,4 +49,9 @@
    "devices": ["REDMINOTE84EE5BF5F53CB5749"],
    "expiry": "16-10-2023 12:59 AM"
  },
+   "ROAD1234": {
+   "password": "$2y$12$ASDXDYmwezi6vGd6sCFL4.Lh/bPDzQN2SEQLchF4zRwkAuD8FSHB6",
+   "devices": ["RMX1851896492E3B9BB27DC"],
+   "expiry": "21-10-2023 12:59 AM"
+ },
 }
