@@ -34,4 +34,9 @@
    "devices": ["PIXEL3AXL37100A80882503D5"],
    "expiry": "28-09-2023 12:59 AM"
  },
+   "YAYAN1234": {
+   "password": "$2y$12$Oc8yboeKEMfUktCCUdt7e.EF3TZn1MXdQlF1PoxTRZg.Gb4VG7nAW",
+   "devices": ["ASUSX00RDJ9AXGF03H679CEG"],
+   "expiry": "21-10-2023 12:59 AM"
+ },
 }
