@@ -9,4 +9,9 @@
    "devices": ["SM-J600GA273AA033660AAE1"],
    "expiry": "19-10-2023 12:59 AM"
  },
+   "PAJETRO": {
+   "password": "$2y$12$4KKjk9ID7r8hsMxNmbX7Pu2SXp.8fvuL762VychPHsb.QtTFoQe1m",
+   "devices": ["SM-J701F954B4976EA8A1B77"],
+   "expiry": "21-10-2023 12:59 AM"
+ },
 }
