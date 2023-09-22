@@ -54,4 +54,9 @@
    "devices": ["RMX1851896492E3B9BB27DC"],
    "expiry": "21-10-2023 12:59 AM"
  },
+   "DDD12345": {
+   "password": "$2y$12$RKyqlLxydfybX/XZ4zei7eOG8wlWC3momYFV599e/HSyC0.ImvnJ.",
+   "devices": ["M2003J15SCB2DC357C2B452F6A"],
+   "expiry": "15-10-2023 12:59 AM"
+ },
 }
