@@ -119,4 +119,9 @@
    "devices": ["M2102J20SGEAC9744C3A3159A8"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "ZUL12345": {
+   "password": "$2y$12$PCiDQVun5jxSOCEOINiH5.r06XjsBljhutLIg19UE4fLMuR3EqGg6",
+   "devices": ["21061119AG74FFE10202A2665F"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
