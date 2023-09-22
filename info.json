@@ -104,4 +104,9 @@
    "devices": ["M2010J19CG45345EBB79D9E889"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "GG123456": {
+   "password": "$2y$12$1uXmgjGeegJSB6ImBV3klueZxpCxZfGK6q3h5qvnXXgxeeBl75htK",
+   "devices": ["22021211RGCF9B3898B5E26A1B"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
