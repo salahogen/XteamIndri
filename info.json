@@ -99,4 +99,9 @@
    "devices": ["REDMI6A9E514AD5906D8D85"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "DRIVER1625": {
+   "password": "$2y$12$9TXttmt/U96P1ZBAr.3FHeK7h3n3cRpxuTpEg7Ow8IrnzPKBoyElq",
+   "devices": ["M2010J19CG45345EBB79D9E889"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
