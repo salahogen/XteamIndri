@@ -114,4 +114,9 @@
    "devices": ["RMX2030CF78804EAE0F3B1C"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "KELVIN124": {
+   "password": "$2y$12$kbwysQDp84U0gLjRUNGELurVaB7uOR7Chsvk2.TfgzoaqV/JuhhjG",
+   "devices": ["M2102J20SGEAC9744C3A3159A8"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
