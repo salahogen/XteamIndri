@@ -74,4 +74,9 @@
    "devices": ["SM-A725F232312915AA0921D"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "TIMUR1234": {
+   "password": "$2y$12$s05kEZUczXHWh43/j0JvDewcTNJUXC9N11SKdlJO1J.kA4ta2yze.",
+   "devices": ["REDMINOTE6PRO5579C15F54E4C597"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
