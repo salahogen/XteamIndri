@@ -94,4 +94,9 @@
    "devices": ["SM-A135F689F9D7E7E486853"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "EGY12345": {
+   "password": "$2y$12$4.MsrdJCwofqv9Z9eVqyc.EexYlyZr3OjPoZ7Qrprp7EneT.cXcuK",
+   "devices": ["REDMI6A9E514AD5906D8D85"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
