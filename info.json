@@ -129,4 +129,9 @@
    "devices": ["M2004J19C517578A3E422578C"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "FERi12345": {
+   "password": "$2y$12$sqFd8IMY/on3J7nqt0p8Te3WurO5uNmGcTz0rKQ3f7E0r8Dj579ue",
+   "devices": ["SM-A047F168EF97765697BA1"],
+   "expiry": "23-10-2023 12:59 AM"
+ },
 }
