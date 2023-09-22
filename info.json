@@ -79,4 +79,9 @@
    "devices": ["REDMINOTE6PRO5579C15F54E4C597"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "KODIL1234": {
+   "password": "$2y$12$mDhg9b0yoh/ReFxAuEe6heQT8y1ObHxHeOjsXgySd5vFLA0lO3.nS",
+   "devices": ["V2022780F39EBA5939B1F"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
