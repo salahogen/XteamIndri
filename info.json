@@ -64,4 +64,9 @@
    "devices": ["REDMI63C3B9C293E76908C"],
    "expiry": "15-10-2023 12:59 AM"
  },
+   "KOHOKOH12": {
+   "password": "$2y$12$TvF0fEg.URRUolbAxKj9e.V0FkWfq81KXDXBmRBZhBmt7dGjJBotG",
+   "devices": ["V2205DEEB67F0628CD3FD"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
