@@ -124,4 +124,9 @@
    "devices": ["21061119AG74FFE10202A2665F"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "FIRMAN123": {
+   "password": "$2y$12$v7Z8EUnOVRENKtLJCztrienmS2sTn9SvqLAcqiPOvcDdegeQIuzNm",
+   "devices": ["M2004J19C517578A3E422578C"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
