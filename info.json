@@ -69,4 +69,9 @@
    "devices": ["V2205DEEB67F0628CD3FD"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "MAX12345": {
+   "password": "$2y$12$yyAMtFDp4ggTXkA7lqiR6Oy.AztrKVMReq334/WVm5C28hMPnrMSe",
+   "devices": ["SM-A725F232312915AA0921D"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
