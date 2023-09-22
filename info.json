@@ -109,4 +109,9 @@
    "devices": ["22021211RGCF9B3898B5E26A1B"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "MAULANA233": {
+   "password": "$2y$12$x.Z9GCwT.GS.xzaIcaGv4.L4qfhcVsgSdQMgjNQsI9Veh3kgfQ0PO",
+   "devices": ["RMX2030CF78804EAE0F3B1C"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
