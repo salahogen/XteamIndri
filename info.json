@@ -84,4 +84,9 @@
    "devices": ["V2022780F39EBA5939B1F"],
    "expiry": "22-10-2023 12:59 AM"
  },
+   "ARTA1334": {
+   "password": "$2y$12$vYNwyvdhhiJaOa1j6OPiquO7XT1SpK/H8h2LNF0APEWJXF9fitRq6",
+   "devices": ["RMX320142AA687DCBD8A522"],
+   "expiry": "22-10-2023 12:59 AM"
+ },
 }
