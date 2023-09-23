@@ -1,8 +1,8 @@
 {
 "saya": {
    "password": "$2y$12$gIL9AGPraSyIZwcqQ34TcOuwx9GJ0vAVoMuzfQ1Das6X9HQEUabiW",
-   "devices": ["REDMINOTE9PRO5C1031A7B688B47A"],
-   "expiry": "01-09-2026 12:59 PM"
+   "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
+   "expiry": "01-09-2023 12:59 AM"
  },
    "ANDRI": {
    "password": "$2y$12$dJt0HGRyiCDroFUJh/HEpuay1jDfQFf9180fkW2qjeLa.OWF1a3ye",
