@@ -9,6 +9,11 @@
    "devices": ["SM-J600GA273AA033660AAE1"],
    "expiry": "19-10-2023 12:59 AM"
  },
+   "ALPIN1234": {
+   "password": "$2y$12$gI7931yMlFEAJyIoDRnhR.SrhE1zlCTtCaDtnPk4kL5yYHNCnsoPy",
+   "devices": ["ASUSX01BDAC8E7D30CFB7B9623"],
+   "expiry": "23-10-2023 12:59 AM"
+ },
    "PAJETRO": {
    "password": "$2y$12$4KKjk9ID7r8hsMxNmbX7Pu2SXp.8fvuL762VychPHsb.QtTFoQe1m",
    "devices": ["SM-J701F954B4976EA8A1B77"],
