@@ -9,6 +9,11 @@
    "devices": ["SM-J600GA273AA033660AAE1"],
    "expiry": "19-10-2023 12:59 AM"
  },
+   "JONI23341": {
+   "password": "$2y$12$33c3okjNSePxUy7yp4kOp.wTU11kQmafeEirt5sEHGxvCl6UbkKb6",
+   "devices": ["M2006C3LG8FCF5C3E0CAE47ED"],
+   "expiry": "23-10-2023 12:59 AM"
+ },
    "ALPIN1234": {
    "password": "$2y$12$gI7931yMlFEAJyIoDRnhR.SrhE1zlCTtCaDtnPk4kL5yYHNCnsoPy",
    "devices": ["ASUSX01BDAC8E7D30CFB7B9623"],
