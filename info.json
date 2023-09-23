@@ -154,4 +154,9 @@
    "devices": ["VIVO2007F947218DFC7E4BFB"],
    "expiry": "23-10-2023 12:59 AM"
   },
+   "ARIFIN1234": {
+   "password": "$2y$12$rAvQ6LxgMLSoJ4gFt1H0yeAvrobCynU.Zt1yGWYNPa69qHr07/R6C",
+   "devices": ["M2003J15SCA366879358798072"],
+   "expiry": "23-10-2023 12:59 AM"
+  },
 }
