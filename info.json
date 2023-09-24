@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "01-09-2028 12:59 AM"
  },
+   "ALI17652": {
+   "password": "$2y$12$R6qAIBQqjOF0XOSoHvd1uOl8MpBJiH3FobuZGCW49hWfySCKvb2LK",
+   "devices": ["220233L2G51A5D9900D4A714F"],
+   "expiry": "24-10-2023 12:59 AM"
+ },
    "RUDY12345": {
    "password": "$2y$12$PXE7uX0uehWnlJcfnEx5i.ep607MtgvFO396znBpxuv..CiBjXosq",
    "devices": ["SM-N770F548C89B89AC0C4D1"],
