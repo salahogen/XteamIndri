@@ -9,6 +9,11 @@
    "devices": ["SM-A315GCADD1336C73473B3"],
    "expiry": "24-10-2023 12:59 AM"
  },
+   "FARHAN1234": {
+   "password": "$2y$12$/aaan7kaj7vKVjyVYE3kQOJjoVr7x6ldgyqdp63.5vBYi4O5Uj4uK",
+   "devices": ["V21113B7475EF5F62C689"],
+   "expiry": "24-10-2023 12:59 AM"
+ },
    "ALTONCE152": {
    "password": "$2y$12$tM5JftwP8eSYY07rKV/mpeAcTahcjc.nCK05MCL5yUTt61XYN2XWm",
    "devices": ["VIVO1902F016DF41BFE85BA0"],
