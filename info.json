@@ -9,6 +9,11 @@
    "devices": ["REDMINOTE7D9AF6B1CF42BE00A"],
    "expiry": "30-09-2023 12:59 AM"
  },
+   "maruf12345": {
+   "password": "$2y$12$jpJhCpAcbqYTfc52xFs9qOhW2gnPjFz1.x2gUpF8tsKaSNTEg9XbW",
+   "devices": ["INFINIXX676CD76BC663135ADE7C"],
+   "expiry": "24-10-2023 12:59 AM"
+ },
    "ALi34592": {
    "password": "$2y$12$RI1dwvTM74VSho0Yhi2E9u0.KeFwrp/0Td0hP33FfBlqzpJeXotg2",
    "devices": ["220233L2G51A5D9900D4A714F"],
