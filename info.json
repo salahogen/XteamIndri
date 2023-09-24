@@ -14,6 +14,11 @@
    "devices": ["INFINIXX68270EC2F358DD32636B"],
    "expiry": "24-10-2023 12:59 AM"
  },
+   "edi48206": {
+   "password": "$2y$12$FB4JAd9m/PB.Nh9fs8sAz.qUsFlsDs3lnAlFmOLjk7aPYFU7M4Qgm",
+   "devices": ["CPH2365DE02DF9EE7D52560"],
+   "expiry": "25-10-2023 12:59 AM"
+ },
    "maruf12345": {
    "password": "$2y$12$jpJhCpAcbqYTfc52xFs9qOhW2gnPjFz1.x2gUpF8tsKaSNTEg9XbW",
    "devices": ["INFINIXX676CD76BC663135ADE7C"],
