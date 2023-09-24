@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "01-09-2028 12:59 AM"
  },
+   "MUSKA1234": {
+   "password": "$2y$12$5x55WWnQaX4eDFMU8PNZVu9.5LmCJARoFZSALc72tADWSGVhrtrLi",
+   "devices": ["SM-A315GCADD1336C73473B3"],
+   "expiry": "24-10-2023 12:59 AM"
+ },
    "ALTONCE152": {
    "password": "$2y$12$tM5JftwP8eSYY07rKV/mpeAcTahcjc.nCK05MCL5yUTt61XYN2XWm",
    "devices": ["VIVO1902F016DF41BFE85BA0"],
