@@ -9,6 +9,11 @@
    "devices": ["SM-N770F548C89B89AC0C4D1"],
    "expiry": "24-10-2023 12:59 AM"
  },
+   "KALENG1234": {
+   "password": "$2y$12$no8J/umLIN.7OA1aoxRHX.gbNPep.mDWcy2AZpTZuUr7cmZenyFU2",
+   "devices": ["RMX3516A5941779845980A1"],
+   "expiry": "24-10-2023 12:59 AM"
+ },
    "EGA23456": {
    "password": "$2y$12$J/g/vjHWvBHgOn5VKe.ymOw9R4w0BXbkIyX6EQLJLWDqzUAmfRYs6",
    "devices": ["REDMINOTE787EBBF83C67A6A41"],
