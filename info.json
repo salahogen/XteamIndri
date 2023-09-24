@@ -9,6 +9,11 @@
    "devices": ["SM-N770F548C89B89AC0C4D1"],
    "expiry": "24-10-2023 12:59 AM"
  },
+   "EGA23456": {
+   "password": "$2y$12$J/g/vjHWvBHgOn5VKe.ymOw9R4w0BXbkIyX6EQLJLWDqzUAmfRYs6",
+   "devices": ["REDMINOTE787EBBF83C67A6A41"],
+   "expiry": "24-10-2023 12:59 AM"
+ },
    "IRWAN123": {
    "password": "$2y$12$f6gcIVvWVzhfJr/BJAoJR.UAdkkKi8MyG/R91M7kV3jBs7TC5BHu.",
    "devices": ["CPH22097D28FE8905A6F24F"],
