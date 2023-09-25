@@ -9,6 +9,11 @@
    "devices": ["REDMINOTE7D9AF6B1CF42BE00A"],
    "expiry": "30-09-2023 12:59 AM"
  },
+   "riyana1234": {
+   "password": "$2y$12$oTiwfLv9pKYJdNgE78lQJ.Cz863/z9ej/KW558zj97PNv35epZEzW",
+   "devices": ["RMX36273FA7472D4D7C4855"],
+   "expiry": "25-10-2023 12:59 AM"
+ },
    "pronk3421": {
    "password": "$2y$12$UsvQmnjjQ5eE1B2jNJlmP.5Zb/G9hY0snlYRIBrnNsdxVfg8LIdfy",
    "devices": ["CPH1937C3C56EAB4CEB98A6"],
