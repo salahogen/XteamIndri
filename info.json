@@ -14,6 +14,11 @@
    "devices": ["INFINIXX68270EC2F358DD32636B"],
    "expiry": "24-10-2023 12:59 AM"
  },
+   "DENiii123": {
+   "password": "$2y$12$X.BQo19VyhCOnd5iIFSZZel/WDUJkGtk6uJTNS/jrmroIBMuANJ4e",
+   "devices": ["INFINIXX695C69129B4CFD372A73"],
+   "expiry": "25-10-2023 12:59 AM"
+ },
    "edi48206": {
    "password": "$2y$12$FB4JAd9m/PB.Nh9fs8sAz.qUsFlsDs3lnAlFmOLjk7aPYFU7M4Qgm",
    "devices": ["CPH2365DE02DF9EE7D52560"],
