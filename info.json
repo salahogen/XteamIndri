@@ -9,6 +9,11 @@
    "devices": ["INFINIXX6812B3D1669F70F9906FC"],
    "expiry": "25-10-2023 12:59 AM"
  },
+   "arliana123": {
+   "password": "$2y$12$xP3Z61SY6JO9FSrHnfuGFOoPU.Dz4AeOQy9jrIOfQLETJm2FPUFGa",
+   "devices": ["SM-A146PB8EEAED01AC32AF7"],
+   "expiry": "25-10-2023 12:59 AM"
+ },
    "chen1234": {
    "password": "$2y$12$oENtOOF6Ht4MGVZYPwWlDObwTJBd3VUkI16myxTT1q5oafEB.Y426",
    "devices": ["RMX3286849FEBA944392C49"],
