@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "01-09-2028 12:59 AM"
  },
+   "adit1235": {
+   "password": "$2y$12$tqx5tmn6x1SKZQ32EFPGfunOWQnHfGdq4cw7Uly9MEWPgST54TGTK",
+   "devices": ["INFINIXX6812B3D1669F70F9906FC"],
+   "expiry": "25-10-2023 12:59 AM"
+ },
    "chen1234": {
    "password": "$2y$12$oENtOOF6Ht4MGVZYPwWlDObwTJBd3VUkI16myxTT1q5oafEB.Y426",
    "devices": ["RMX3286849FEBA944392C49"],
