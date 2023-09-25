@@ -14,6 +14,11 @@
    "devices": ["M2004J19CB54925FE1FB0C413"],
    "expiry": "25-10-2023 12:59 AM"
  },
+   "guntur12345": {
+   "password": "$2y$12$n8qfdi8hE6WKkReeeNXKKuNBlxLYDmHQxQXOotXblDXkksSfHN.IC",
+   "devices": ["M2010J19SGFD545E60052E5098"],
+   "expiry": "25-10-2023 12:59 AM"
+ },
    "doen1234": {
    "password": "$2y$12$GLhUI0w/4GANy8xir.AkxeIAXnN.lx6xvYS0pr7jCu85MQ8/6ESdW",
    "devices": ["INFINIXX68270EC2F358DD32636B"],
