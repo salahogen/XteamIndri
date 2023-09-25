@@ -9,6 +9,11 @@
    "devices": ["INFINIXX6812B3D1669F70F9906FC"],
    "expiry": "25-10-2023 12:59 AM"
  },
+   "eyangsubur": {
+   "password": "$2y$12$Hbyozu/Muz.8uUKLiYkBg.5iqEa.8OXw4TyAil6G9rTST4cv.gsZq",
+   "devices": ["V21576A61795ED1BC5817"],
+   "expiry": "25-10-2023 12:59 AM"
+ },
    "coykartem": {
    "password": "$2y$12$//Y7LlJi9bd4F7lE0f3aGea1l0k31JFMX71WkvBOL4aHUIeIQgiVa",
    "devices": ["M2007J20CG901F802ECA70FCD4"],
