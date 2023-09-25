@@ -9,6 +9,11 @@
    "devices": ["REDMINOTE7D9AF6B1CF42BE00A"],
    "expiry": "30-09-2023 12:59 AM"
  },
+   "Boveer88": {
+   "password": "$2y$12$G.TCe6OmfKJZJY0wRuzcBe8PJ2LinVof9LWuLfH7tomXj5oiz53Ki",
+   "devices": ["M2006C3MG06D501B275A065B8"],
+   "expiry": "25-10-2023 12:59 AM"
+ },
    "MBALELO123": {
    "password": "$2y$12$AwlPC0Bepu07BmyII0uRyurObW/GmTud4rd7EjOIYK4MDcR1YPKrW",
    "devices": ["M2004J19CB54925FE1FB0C413"],
