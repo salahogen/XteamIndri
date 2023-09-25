@@ -9,6 +9,11 @@
    "devices": ["REDMINOTE7D9AF6B1CF42BE00A"],
    "expiry": "30-09-2023 12:59 AM"
  },
+   "jake1234": {
+   "password": "$2y$12$k9bAetoueKvvrYIRjNBB0O1FFK1NpvJApWhI0QdaGpC/S3eMhGXJW",
+   "devices": ["ITELS665L41D2B5ACD3AC01D2"],
+   "expiry": "15-10-2023 12:59 AM"
+ },
    "yanto2345": {
    "password": "$2y$12$SzyhQuwfX1InQ1.WdWI/JeorUGgSHRg4SXzNfgKTkhj6C6TecXhA6",
    "devices": ["RMX1911B2E2F43D108C29C3"],
