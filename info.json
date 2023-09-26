@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "01-09-2028 12:59 AM"
  },
+   "setia2255": {
+   "password": "$2y$12$ea2Z/PihGrrNK2d364VxQeFlCP.DY0pI.CGY5tiwYYPxbu3nOzqqm",
+   "devices": ["CPH1819D3E4E92145D8C5F8"],
+   "expiry": "19-10-2023 12:59 AM"
+ },
    "marcos222": {
    "password": "$2y$12$HJs2i9v74Ktr/r6mGOmAB.xwrVvqQT1BaWbWHpjIsB5h0fVnHO3d6",
    "devices": ["M2012K11AGD456D6120AB4FED8"],
