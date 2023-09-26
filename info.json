@@ -9,6 +9,11 @@
    "devices": ["V21091A34E4B339E21DD2"],
    "expiry": "26-10-2023 12:59 AM"
  },
+   "wara2233": {
+   "password": "$2y$12$KrOHWSVXbr3Z7PXCokBAcug8rqMF7FQ7HO7DF181h8B7YbXKfBntK",
+   "devices": ["M2101K6G57528FD2DC7F1364"],
+   "expiry": "26-10-2023 12:59 AM"
+ },
    "setia2255": {
    "password": "$2y$12$ea2Z/PihGrrNK2d364VxQeFlCP.DY0pI.CGY5tiwYYPxbu3nOzqqm",
    "devices": ["CPH1819D3E4E92145D8C5F8"],
