@@ -9,6 +9,11 @@
    "devices": ["V21091A34E4B339E21DD2"],
    "expiry": "26-10-2023 12:59 AM"
  },
+   "joko2222": {
+   "password": "$2y$12$EfjnmbKDxZQ909rpDAuTnuF6wnCs6lTrasH1RNqkNdz58F2bl2c8q",
+   "devices": ["V220742B307D9949FEBED"],
+   "expiry": "31-10-2023 12:59 AM"
+ },
    "wara2233": {
    "password": "$2y$12$KrOHWSVXbr3Z7PXCokBAcug8rqMF7FQ7HO7DF181h8B7YbXKfBntK",
    "devices": ["M2101K6G57528FD2DC7F1364"],
