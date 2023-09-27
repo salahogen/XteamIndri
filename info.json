@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "01-09-2028 12:59 AM"
  },
+   "pengkorjancuk": {
+   "password": "$2y$12$GBUkXcAt07LqiDYnxAn61Oh6hkVHR2AvEYcUDbkG/FmkrOHOZPzBq",
+   "devices": ["MIA2DC7CAB23B6ACE864"],
+   "expiry": "31-12-2023 12:59 AM"
+ },
    "yo223344": {
    "password": "$2y$12$AwsaJAxrpZf4oWYFLTs8B.sl1ThIrP5vcyxBlNyXZqE/oQ9E/s42.",
    "devices": ["TECNOLG7N05F5C266BB4803F0"],
