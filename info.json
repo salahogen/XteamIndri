@@ -9,6 +9,11 @@
    "devices": ["21081111RGA5B7C38ACA3B745A"],
    "expiry": "28-09-2023 8:00 AM"
  },
+   "galih4444": {
+   "password": "$2y$12$pzJiq8m6CEcAhbabWhFA9u4jArmyh7x6hCew5a5s8wBR1YTFocmRS",
+   "devices": ["CPH1803BDB19BF1"],
+   "expiry": "24-10-2023 12:59 AM"
+ },
    "jp123456": {
    "password": "$2y$12$8P3dBz.YZOS4d5FO5iF6GOMqFvR.FbZZrKmlHnatVR05ekavpu20K",
    "devices": ["220333QAG23BE047BE902A00D"],
