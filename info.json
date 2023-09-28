@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","HM-N700-FL65B2DE6D","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "01-09-2029 12:59 AM"
  },
+   "dita3344": {
+   "password": "$2y$12$/7c66iIa0AOjv9TPa4l3.uJniQrruqvCVc/eLoDJSMW4DKB6j/vMy",
+   "devices": ["2201117TY27CFBF1ED935914B"],
+   "expiry": "28-10-2023 12:59 AM"
+ },
    "jindanjun": {
    "password": "$2y$12$NL2BQr0NMeEHh4g9qh48OePydFwAaNu2x83mMTydGR3FMDt9tFbJK",
    "devices": ["INFINIXX68161FF13F7A29C19912"],
