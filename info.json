@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","HM-N700-FL65B2DE6D","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "01-09-2029 12:59 AM"
  },
+   "TESTPERU": {
+   "password": "$2y$12$tyRIxH1jALMlyRjm0meS9OfujTSi6b3cwNhCihLEZLbWc4wgo8zrK",
+   "devices": ["21091116UG73BC52D0E4A777FF"],
+   "expiry": "29-09-2023 12:59 AM"
+ },
    "rositacantik": {
    "password": "$2y$12$l/Tf8590/UWkEPj/FxhpKetw5aem9TcIH7p639WMVV9xt6Na333Rq",
    "devices": ["SM-J600GE9A6468875F08DC0"],
