@@ -9,6 +9,11 @@
    "devices": ["INFINIXX657B7D1FCFE331B99E9B"],
    "expiry": "29-10-2023 12:59 AM"
  },
+   "kancirigs": {
+   "password": "$2y$12$iiScaZvS8EsRY3HdY9ZmY.wMwufXYm6lCA0OGhO1ZXPdf3TnxFrLq",
+   "devices": ["CPH1819BF719989A0A1519A"],
+   "expiry": "29-10-2023 12:00 PM"
+ },
    "dian2344": {
    "password": "$2y$12$znH7k7BO7WwBJGdeoXhkLuYY.5w5Kzx7rNqs8qUwpwxM.W6ILRMUS",
    "devices": ["RMX31510BEA53306600A8C7"],
