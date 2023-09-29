@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","HM-N700-FL65B2DE6D","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "01-09-2029 12:59 AM"
  },
+   "jordan232": {
+   "password": "$2y$12$aU3MkOfWS3Gfc89l/bXLgOcxAqqvXZN9Gi5XhMqPoKqXIbzPEJ/1a",
+   "devices": ["SM-A520F5210E920BA65B37B"],
+   "expiry": "29-10-2023 12:59 PM"
+ },
    "TESTPERU": {
    "password": "$2y$12$tyRIxH1jALMlyRjm0meS9OfujTSi6b3cwNhCihLEZLbWc4wgo8zrK",
    "devices": ["21091116UG73BC52D0E4A777FF"],
