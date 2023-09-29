@@ -9,6 +9,11 @@
    "devices": ["VIVO1802KJPZ9PJNIB55KRW4"],
    "expiry": "29-10-2023 12:00 PM"
  },
+   "cmojek23": {
+   "password": "$2y$12$EeCCeA9iluGK2IHsOIdwueY1/2Gu66w1/JrqkjSwhQ5N6wUm9QCh.",
+   "devices": ["SM-A045FBA934E05FA7709BE"],
+   "expiry": "29-10-2023 12:00 PM"
+ },
    "hd343434": {
    "password": "$2y$12$tD5FHhzzlWw5vidckPOFmuty3KpU1FvZHmDGunaoGP1lrkVU.5WtK",
    "devices": ["2201116SGD8F5E4B814EFE67A"],
