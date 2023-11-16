@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C","REDMINOTE9PRO5C1031A7B688B47A","HM-N700-FL65B2DE6D","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "01-09-2029 12:59 AM"
  },
+   "bambam23": {
+   "password": "$2y$12$O8czqYQijZgO6eyaphm2Oe617OtECub/6f5Ej30ksVRRkHEiisxKi",
+   "devices": ["TECNOLE7AC59E17E5FB7170C"],
+   "expiry": "30-11-2023 12:00 PM"
+},
    "sangle1012": {
    "password": "$2y$12$vmxYkgxKQagUf/uJcMX0.eZA5/bYFLdsPC8ZBTg7Ztg/AGAmNF/JO",
    "devices": ["SM-A135F76DC29EC0B23E768"],
