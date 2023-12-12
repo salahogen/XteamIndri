@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PROB1DB4ECD2C337138","REDMINOTE9PRO8F821C3ADFEBE55C","REDMINOTE9PRO5C1031A7B688B47A","HM-N700-FL65B2DE6D","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "01-09-2029 12:59 AM"
  },
+   "crhis1201": {
+   "password": "$2y$12$rRd7VgpXgEqz7C.k0jLMVe8HwIsNqYiisCgOMoK1xVhsvw12Fuv5y",
+   "devices": ["RMX37100B6B8E4136E11B7A"],
+   "expiry": "12-01-2024 12:00 PM"
+},
    "azizyvis": {
    "password": "$2y$12$xLTVJCr/LT2Kby0v7/ubQ.jqujY9sgmgITMWuh9ZlUlyCNmhdOnCO",
    "devices": ["REDMI4X466190CB7CF4"],
