@@ -89,6 +89,11 @@
    "devices": ["RMX37106A82A3B0565E374D"],
    "expiry": "02-01-2024 12:00 PM"
  },
+   "davidvidvid": {
+   "password": "$2y$12$gpGwfk0X1VrmusKy0alvR.bz3N.c5x2pGcdBhUbnHYzkqWk1/.79G",
+   "devices": ["SM-A135F2ABFA4E48FE55F9D"],
+   "expiry": "31-01-2024 12:00 PM"
+},
 "dkwkmsnaklq": {
    "password": "$2y$12$jZqsUow3HRomy1eg051OZu8.JDfiHsr07bvp6L9XFdEaUDQcBuxTu",
    "devices": ["CPH2185DF2D6E4A5976FDD0","CPH2185DF2D6E4A5976FDD0","V22076DE82A32712BBF67","VOG-L29EA9D3B02085108F4","22021211RG531EFA0B3C8C6E24"],
