@@ -114,6 +114,11 @@
    "devices": ["INFINIXX657B1D13F905338AB097"],
    "expiry": "22-02-2024 12:00 PM"
 },
+   "artha23232": {
+   "password": "$2y$12$xaniLKLucyGgjw9NzqBq2.qbRXdLBAZ8Wr.0E4iD3SFIo5MFXh08m",
+   "devices": ["RMX320142AA687DCBD8A522"],
+   "expiry": "31-01-2024 12:00 PM"
+},
    "pengkorjancuk": {
    "password": "$2y$12$GBUkXcAt07LqiDYnxAn61Oh6hkVHR2AvEYcUDbkG/FmkrOHOZPzBq",
    "devices": ["M2102J20SGB61E2B444234F311","MIA2DC7CAB23B6ACE864"],
