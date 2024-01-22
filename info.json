@@ -99,6 +99,11 @@
    "devices": ["SM-A045FBA934E05FA7709BE"],
    "expiry": "09-02-2024 12:00 PM"
 },
+   "joni4029": {
+   "password": "$2y$12$oazoRyym0VkjmvrQXRu2XOtp.v8fpChWlHSvSM.E1FPBiZ0fKbb0K",
+   "devices": ["M2006C3LG8FCF5C3E0CAE47ED"],
+   "expiry": "27-01-2024 12:00 PM"
+},
    "pengkorjancuk": {
    "password": "$2y$12$GBUkXcAt07LqiDYnxAn61Oh6hkVHR2AvEYcUDbkG/FmkrOHOZPzBq",
    "devices": ["M2102J20SGB61E2B444234F311","MIA2DC7CAB23B6ACE864"],
