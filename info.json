@@ -79,6 +79,11 @@
    "devices": ["INFINIXX6833B81591CC6F36C0FB1"],
    "expiry": "22-02-2024 12:00 PM"
 },
+   "putra2828": {
+   "password": "$2y$12$.4yhgRZBHgyLjNjx7.rukulrG.z648AAV5.DrvBkXwLKOqfUjZMtG",
+   "devices": ["22021211RG85CE79FF46EBE385"],
+   "expiry": "02-02-2024 12:00 PM"
+},
    "pengkorjancuk": {
    "password": "$2y$12$GBUkXcAt07LqiDYnxAn61Oh6hkVHR2AvEYcUDbkG/FmkrOHOZPzBq",
    "devices": ["M2102J20SGB61E2B444234F311","MIA2DC7CAB23B6ACE864"],
