@@ -99,6 +99,11 @@
    "devices": ["RMX37100B6B8E4136E11B7A"],
    "expiry": "12-02-2024 12:00 PM"
 },
+"farhan4882": {
+   "password": "$2y$12$O7sGR4.NW85ygLR7UOWHvukFPBF9IXtHvZuOVoVxFCbeUsBPsDFnq",
+   "devices": ["INFINIXX651536827B5D8BC9BD13"],
+   "expiry": "15-02-2024 12:00 PM"
+},
    "pengkorjancuk": {
    "password": "$2y$12$GBUkXcAt07LqiDYnxAn61Oh6hkVHR2AvEYcUDbkG/FmkrOHOZPzBq",
    "devices": ["M2102J20SGB61E2B444234F311","MIA2DC7CAB23B6ACE864"],
