@@ -104,6 +104,11 @@
    "devices": ["INFINIXX651536827B5D8BC9BD13"],
    "expiry": "15-02-2024 12:00 PM"
 },
+   "sakji8483": {
+   "password": "$2y$12$U92LGodDdpMhkxuPN2PO3e7ithsXulaCyrx7/rHimasFwuifn/17K",
+   "devices": ["SM-A055F573117D6540E25C4"],
+   "expiry": "01-02-2024 12:00 PM"
+},
    "pengkorjancuk": {
    "password": "$2y$12$GBUkXcAt07LqiDYnxAn61Oh6hkVHR2AvEYcUDbkG/FmkrOHOZPzBq",
    "devices": ["M2102J20SGB61E2B444234F311","MIA2DC7CAB23B6ACE864"],
