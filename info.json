@@ -169,6 +169,11 @@
    "devices": ["RMX363033885601DDF59BAE"],
    "expiry": "20-02-2024 12:00 PM"
 },
+   "soleh3737": {
+   "password": "$2y$12$Z8f/3M95OEUfqn1wH.wML.NAcQmo7BXzkq/PstqtR/pDyBXoRZsLa",
+   "devices": ["SM-A507FN3901F9D608016A8C"],
+   "expiry": "12-02-2024 12:00 PM"
+},
    "pengkorjancuk": {
    "password": "$2y$12$GBUkXcAt07LqiDYnxAn61Oh6hkVHR2AvEYcUDbkG/FmkrOHOZPzBq",
    "devices": ["M2102J20SGB61E2B444234F311","MIA2DC7CAB23B6ACE864"],
