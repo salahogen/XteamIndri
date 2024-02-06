@@ -159,6 +159,11 @@
    "devices": ["22041219G70EE2C77116ACE60"],
    "expiry": "05-02-2024 12:00 PM"
 },
+   "dede3993": {
+   "password": "$2y$12$qvZY3dLJQHu1yBhlp6Ana.XlTGhKk7u2I6InNFTpPVWfYpPX6anQ6",
+   "devices": ["CPH2531AC0C71491FBD7B12"],
+   "expiry": "09-02-2024 12:00 PM"
+},
    "furqon393": {
    "password": "$2y$12$mrYSUX4qfOeVVMPrrFJv.uXTRWf2i7Af2nKWIkLttUlixQ82LvBjq",
    "devices": ["V21208C6FB9AEB7AF2D06"],
