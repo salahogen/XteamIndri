@@ -54,6 +54,11 @@
    "devices": ["CPH2185A93DB65D62AD5F1B"],
    "expiry": "02-04-2024 12:00 PM"
 },
+   "rafhan3737": {
+   "password": "$2y$12$9ClFe5roMOBqb4M7bX4WTuF733RqdNEzFYtZmtDmTsk9T2sxSxuw2",
+   "devices": ["23021RAA2Y3A4DAA6B539246AC"],
+   "expiry": "13-04-2024 12:00 PM"
+},
    "farhanFinix": {
    "password": "$2y$12$Q3I91c42H0XqlYchKiE2EO8S63wqCq1PdoPSJq0NfFR2KEeml9rZO",
    "devices": ["INFINIXX651536827B5D8BC9BD13"],
